@@ -5,10 +5,17 @@
 }
 
 body {
+    box-sizing: border-box;
+    height: 100vh;
     background-color: #000;
     color: #fff;
 }
 
-strong {
+.titulo-destaque {
     color: #22D4FD;
+}
+
+.apresentacao {
+    display: flex;
+    align-items: center;
 }
