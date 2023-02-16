@@ -42,7 +42,7 @@ Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Minha intenção em compartilha, é que tenha aqui disponível um formato simples porém bem otimizado para uma página de portfólio para quem esttá iniciando em desenvolvimento web como Eu, e para ver o estado atual que está o projeto basta<a href="https://www.robertojunnior.github.io/alura/portfolio/"> CLICAR AQUI.</a>🚀
+Minha intenção em compartilhar, é que tenha aqui disponível um formato simples porém bem otimizado para uma página de portfólio para quem esttá iniciando em desenvolvimento web como Eu, e para ver o estado atual que está o projeto basta<a href="https://www.robertojunnior.github.io/alura/portfolio/"> CLICAR AQUI.</a>🚀
 
 [Visite o projeto online](https://robertojunnior.github.io/conversor-de-moedas/)
 
