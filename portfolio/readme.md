@@ -28,10 +28,7 @@ Projeto Este projeto faz parte da Formação Fornt End da Platafroma Alura, apre
 <br>
 
 <br>
-🧑‍🚀 A idéia deste projeto foi inspirada no 1° dia da imersão AluraDev apresentado por Paulo Silveira, Rafaella ballerini e Guilherme Lima. <br>
-<br>Foi desenvolvido com o que aprendi de html e css até o momento, em parceria com meu amigo Fernando Montanari que é aluno da ALURA, ficando responsável por implantar o JavaScript no código em uma PULL Resquest sobre a minha versão com dados alimentandos por uma API e interface de design moderno e fácil uso!
-<br>
-<br>Trata-se de uma empresa fictícia com logo e mockup de entrega criadas no Adobe Illustrator, espero que todos os projetos daqui pra frente sejam desafiadores como este pois agora também sou aluno da ALURA ❤️‍🔥.
+🧑‍🚀 A idéia deste projeto foi disponibilizada no curso de formação Front End "A partir do zero: Html, Css para projetos web", contendo 6 módulos e um total de 51 horas apresentado por Guilherme Lima e Rafaella Ballerini ❤️‍🔥.
 
 ## 🚀 Tecnologias
 
@@ -39,20 +36,19 @@ Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 
 <li> HTML
 <li> CSS
-<li> JavaScript
+<li> Figma
 <li> Git and GitHub
-<li> Consumo de API
-<li> Adobe Illustrator
+
 
 ## 💻 Projeto
 
-Nossa intenção é fazer com que o conversor de moedas lhe possibilite acessar on-line a cotação no momento atual e converter o valor desejado consumindo a API da <a href="https://www.exchangerate-api.com/">EXCHANGE RATE.</a>🚀
+Minha intenção em compartilha, é que tenha aqui disponível um formato simples porém bem otimizado para uma página de portfólio para quem esttá iniciando em desenvolvimento web como Eu, e para ver o estado atual que está o projeto basta<a href="https://www.robertojunnior.github.io/alura/portfolio/"> CLICAR AQUI.</a>🚀
 
 [Visite o projeto online](https://robertojunnior.github.io/conversor-de-moedas/)
 
 ## 🔖 Layout
-Este projeto foi desenvolvido com Adobe Illustrator.<br>
-🖼️ A imagem do background pertence a <a href="https://br.freepik.com/fotos-gratis/close-up-em-uma-jovem-atraente-e-despreocupada-sentada-no-chao_12950967.htm#query=pessoa%20telefone&position=9&from_view=keyword">wayhomestudio</a> no Freepik.
+Este projeto no FIGMA foi desenvolvido por ALURA.<br>
+🖼️ Para acessá-lo, você precisa criar uma conta no FIGMA, caso já possua basta <a href="https://www.figma.com/file/NrzJacC887svMVfF9oC2jM/Portfolio-Projeto-2?node-id=0%3A1&t=jby4DOqQVo0tsRtG-0"> CLICAR AQUI.</a>
 
 ## :memo: Licença
 
@@ -60,7 +56,7 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito by Roberto Junior & Fernando Montanari 😁:wave: 
+Feito ❤️‍ by Roberto Junior 😁:wave: 
 <br>🧑‍🚀[Inscreva-se no canal do YouTube da Alura!](https://www.youtube.com/@Alura)
 
     
