@@ -2,7 +2,7 @@
 
 :root {
     --color-bkg: #000;
-    --color-text: #fff;
+    --color-text: #f6f6f6;
     --color-destaque: #22D4FD;
     --font1: 'Krona One', sans-serif;
     --font2: 'Montserrat', sans-serif;
@@ -12,8 +12,6 @@
     margin: 0;
     padding: 0;
 }
-
-
 
 body {
     box-sizing: border-box;
@@ -54,18 +52,26 @@ body {
 
 .apresentacao-links {
     display: flex;
+    flex-direction: column;
     justify-content: space-between;
-    gap: 1rem;
+    align-items: center;
+    gap: 2rem;
 }
 
-.botao {
-    background-color: var(--color-destaque);
-    width: 280px;
+.apresentacao-link-subtitulo {
+    font-family: var(--font1);
+    font-weight: 400;
+    font-size: 24px;
+}
+
+.apresentacao-links-link {
+    border: 2px solid var(--color-destaque);
+    width: 378px;
     text-align: center;
-    border-radius: 1rem;
+    border-radius: 0.5rem;
     font-size: 24px;
     padding: 21.5px 0;
-    color: var(--color-bkg);
+    color: var(--color-text);
     text-decoration: none;
     font-family: var(--font2);
     font-weight: bold;
