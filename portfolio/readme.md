@@ -1,7 +1,7 @@
 <h1 align="center"> Projeto Portfolio Alura </h1>
 
 <p align="center">
-Projeto Este projeto faz parte da Formação Front End da Platafroma Alura, apresentado pro Guilherme Silveira e Rafaella Ballerini.<br/>
+Este projeto faz parte da Formação Front End da Platafroma Alura, apresentado pro Guilherme Silveira e Rafaella Ballerini.<br/>
 </p>
 
 <p align="center">
