@@ -6,6 +6,7 @@
     --color-destaque: #22D4FD;
     --font1: 'Krona One', sans-serif;
     --font2: 'Montserrat', sans-serif;
+    --margin: auto;
 }
 
 * {
