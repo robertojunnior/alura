@@ -19,7 +19,7 @@ Este projeto faz parte da Formação Front End da Platafroma Alura, apresentado 
 <br>
 
   <div align="center">
-    <a target="_blank" href="https://robertojunnior.github.io/alura/portfolio">
+    <a target="_blank" href="https://robertojunnior.github.io/alura/portfolio-alura">
     <img width="800px" src="./assets/background-readme.png" alt="projeto">
     </a>
   </div>
@@ -42,9 +42,9 @@ Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Minha intenção em compartilhar, é que tenha aqui disponível um formato simples, responsivo e otimizado de portfólio para quem esttá iniciando em desenvolvimento web como Eu, e para ver o estado atual que está o projeto basta<a href="https://robertojunnior.github.io/alura/portfolio/"> CLICAR AQUI.</a>🚀
+Minha intenção em compartilhar, é que tenha aqui disponível um formato simples, responsivo e otimizado de portfólio para quem esttá iniciando em desenvolvimento web como Eu, e para ver o estado atual que está o projeto basta<a href="https://robertojunnior.github.io/alura/portfolio-alura/"> CLICAR AQUI.</a>🚀
 
-<!-- [Visite o projeto online](https://robertojunnior.github.io/alura/portfolio/) -->
+<!-- [Visite o projeto online](https://robertojunnior.github.io/alura/portfolio-alura/) -->
 
 ## 🔖 Layout
 Este projeto no FIGMA foi desenvolvido por ALURA.<br>
