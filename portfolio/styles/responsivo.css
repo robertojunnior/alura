@@ -1,4 +1,4 @@
-@media (max-width: 800px ) {
+@media (max-width: 72rem ) {
     body {
         background-color: rgb(43, 43, 66);
     }
@@ -30,7 +30,11 @@
     }
 
     .apresentacao-links-sociais:hover {
-        background-color: rgb(63, 63, 80);
+        background-color: #3f3f50;
+    }
+
+    .rodape {
+        color: #3f3f50;
     }
 
 }
