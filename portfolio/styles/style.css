@@ -7,6 +7,7 @@
     --font1: 'Krona One', sans-serif;
     --font2: 'Montserrat', sans-serif;
     --margin: auto;
+    --padding: 1rem;
 }
 
 * {
