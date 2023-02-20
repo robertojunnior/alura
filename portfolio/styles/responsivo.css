@@ -24,6 +24,11 @@
         width: auto;
     }
 
+    .apresentacao-links-sociais {
+        margin-bottom: 1rem;
+        font-size: 1.25rem;
+    }
+
     .apresentacao-links-sociais:hover {
         background-color: rgb(63, 63, 80);
     }
