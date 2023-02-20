@@ -1,0 +1,31 @@
+@media (max-width: 800px ) {
+    body {
+        background-color: rgb(43, 43, 66);
+    }
+
+    .cabecalho {
+        padding: 10%;    
+    }
+
+    .cabecalho-menu {
+        justify-content: center;
+    }
+    
+    .apresentacao {
+        flex-direction: column-reverse;
+        padding: 5%;
+    }
+
+    .apresentacao-imagem {
+        margin-bottom: 1.5rem;
+    }
+
+    .apresentacao-conteudo {
+        width: auto;
+    }
+
+    .apresentacao-links-sociais:hover {
+        background-color: rgb(63, 63, 80);
+    }
+
+}
