@@ -20,11 +20,7 @@ Este projeto faz parte da Formação Front End da Platafroma Alura, apresentado 
 
   <div align="center">
     <a target="_blank" href="https://robertojunnior.github.io/alura/portfolio-alura">
-<<<<<<< HEAD
     <img width="800px" src="./assets/background-readme.png" alt="projeto">
-=======
-    <img width="800px" src="./assets/mockup-entrega-github.png" alt="projeto">
->>>>>>> 74b681db5a7d6a3594c71717ef924b2b5e8bed24
     </a>
   </div>
 
