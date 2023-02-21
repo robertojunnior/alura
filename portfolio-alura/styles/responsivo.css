@@ -1,6 +1,6 @@
 @media (max-width: 72rem ) {
     body {
-        background-color: rgb(43, 43, 66);
+        background-color: var(--color-bkg);
     }
 
     .cabecalho {
@@ -30,11 +30,7 @@
     }
 
     .apresentacao-links-sociais:hover {
-        background-color: #3f3f50;
-    }
-
-    .rodape {
-        color: #3f3f50;
+        background-color: #272727;
     }
 
 }
