@@ -20,7 +20,7 @@ Este projeto faz parte da Formação Front End da Platafroma Alura, apresentado 
 
   <div align="center">
     <a target="_blank" href="https://robertojunnior.github.io/alura/portfolio-alura">
-    <img width="800px" src="https://github.com/robertojunnior/alura/blob/main/portfolio-alura/assets/mockup-entrega-github.png" alt="portfolio-alura">
+    <img width="90%" src="./assets/mockup-entrega-github.png" alt="portfolio-alura">
     </a>
   </div>
 
@@ -60,7 +60,7 @@ Feito ❤️‍ by Roberto Junior 😁:wave:
 <br>🧑‍🚀[Inscreva-se no canal do YouTube da Alura!](https://www.youtube.com/@Alura)
 
     
-<h4> Obrigado por visitar meu Git e se chegou até aqui dê um "Follow" que retribuo, quem sabe não podemos colaborar em algum projeto juntos?
+<h4> Obrigado por visitar meu Git e se chegou até aqui dê um "FOLLOW" que retribuo, quem sabe não podemos colaborar em algum projeto juntos?
   <br>
   <br>
 <p> Até a próxima! 😁🖖.
