@@ -30,6 +30,7 @@ body {
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+    font-size: 1.5rem;
 }
 
 .cabecalho {
@@ -58,7 +59,15 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    gap: 1rem;
+    gap: rem;
+}
+
+.apresentacao-about {
+    padding: 5% 10%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 3rem;
 }
 
 .apresentacao-conteudo {
@@ -76,6 +85,12 @@ body {
 .apresentacao-conteudo-texto {
     font-size: var(--font-size-p);
     font-family: var(--font2);
+}
+
+.sobre-mim-texto {
+    font-size: var(--font-size-p);
+    font-family: var(--font2);
+    text-align: justify;
 }
 
 .apresentacao-links {
@@ -115,6 +130,10 @@ body {
 }
 
 .apresentacao-imagem {
+    width: 50%;
+}
+
+.apresentacao-imagem-about {
     width: 40%;
 }
 

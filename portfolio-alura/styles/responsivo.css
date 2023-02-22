@@ -1,7 +1,4 @@
 @media (max-width: 72rem ) {
-    body {
-        background-color: var(--color-bkg);
-    }
 
     .cabecalho {
         padding: 5%;    
@@ -12,6 +9,12 @@
     }
     
     .apresentacao {
+        flex-direction: column-reverse;
+        padding: 5%;
+        height: 90%;
+    }
+
+    .apresentacao-about {
         flex-direction: column-reverse;
         padding: 5%;
         height: 90%;
@@ -42,5 +45,5 @@
     .rodape {
         padding: 5%;
     }
-
 }
+
