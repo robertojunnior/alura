@@ -1,4 +1,4 @@
-<h1 align="center"> Projeto Portfolio Alura </h1>
+<h1 align="center"> Projeto atual em desenvolvimento - Portfolio Alura </h1>
 
 <p align="center">
 Este projeto faz parte da Formação Front End da Platafroma Alura, apresentado pro Guilherme Lima e Rafaella Ballerini.<br/>
