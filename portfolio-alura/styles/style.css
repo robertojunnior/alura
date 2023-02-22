@@ -6,8 +6,8 @@
     --color-destaque: #22D4FD;
     --font1: 'Krona One', sans-serif;
     --font2: 'Montserrat', sans-serif;
-    --font-size-h1: 1.5rem;
-    --font-size-p: 1rem;
+    --font-size-h1: 1.75rem;
+    --font-size-p: 1.25rem;
 }
 
 * {
@@ -24,7 +24,7 @@ body {
 }
 
 .cabecalho {
-    padding: 1.5% 0 0 15%;
+    padding: 2% 0 0 10%;
 }
 
 .cabecalho-menu {
@@ -46,7 +46,8 @@ body {
 }
 
 .apresentacao {
-    padding: 4% 15%;
+    /* box-sizing: border-box; */
+    padding: 5% 10%;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -67,7 +68,7 @@ body {
 }
 
 .apresentacao-conteudo-texto {
-    font-size: 1rem;
+    font-size: var(--font-size-p);
     font-family: var(--font2);
 }
 
@@ -115,7 +116,7 @@ body {
     background-color: var(--color-destaque);
     color: var(--color-bkg);
     text-align: center;
-    padding: 1.5rem;
+    padding: 1.05rem;
     font-family: var(--font2);
     font-size: 1rem;
     font-weight: 600;
