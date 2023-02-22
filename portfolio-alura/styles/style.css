@@ -6,8 +6,8 @@
     --color-destaque: #22D4FD;
     --font1: 'Krona One', sans-serif;
     --font2: 'Montserrat', sans-serif;
-    --font-size-h1: 2.25rem;
-    --font-size-p: 1.5rem;
+    --font-size-h1: 1.5rem;
+    --font-size-p: 1rem;
 }
 
 * {
@@ -67,7 +67,7 @@ body {
 }
 
 .apresentacao-conteudo-texto {
-    font-size: 1.5rem;
+    font-size: 1rem;
     font-family: var(--font2);
 }
 
@@ -96,7 +96,7 @@ body {
     text-align: center;
     border-radius: 0.5rem;
     font-size: var(--font-size-p);
-    padding: 21.5px 0;
+    padding: 1rem 0;
     color: var(--color-text);
     text-decoration: none;
     font-family: var(--font2);
@@ -108,14 +108,14 @@ body {
 }
 
 .apresentacao-imagem {
-    width: 50%;
+    width: 40%;
 }
 
 .rodape {
     background-color: var(--color-destaque);
     color: var(--color-bkg);
     text-align: center;
-    padding: 2rem;
+    padding: 1.5rem;
     font-family: var(--font2);
     font-size: 1rem;
     font-weight: 600;
