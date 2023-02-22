@@ -60,7 +60,7 @@ Feito ❤️‍ by Roberto Junior 😁:wave:
 <br>🧑‍🚀[Inscreva-se no canal do YouTube da Alura!](https://www.youtube.com/@Alura)
 
     
-<h4> Obrigado por visitar meu Git e se chegou até aqui dê um "FOLLOW" que retribuo, quem sabe não podemos colaborar em algum projeto juntos?
+<h4> Obrigado por visitar meu Git e se chegou até aqui dê um "Follow" que retribuo, quem sabe não podemos colaborar em algum projeto juntos?
   <br>
   <br>
 <p> Até a próxima! 😁🖖.
