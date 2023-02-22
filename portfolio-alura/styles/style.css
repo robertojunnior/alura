@@ -8,19 +8,28 @@
     --font2: 'Montserrat', sans-serif;
     --font-size-h1: 1.75rem;
     --font-size-p: 1.25rem;
+    --color-gradiente: linear-gradient(45deg, #52658C, #73578D, #D1318E);
 }
 
 * {
     margin: 0;
     padding: 0;
     text-decoration: none;
-    color: var(--color-text);
 }
 
 body {
     box-sizing: border-box;
     background-color: var(--color-bkg);
     color: var(--color-text);
+}
+
+/* classe gradiente */
+.gradiente {
+    background-image: linear-gradient(45deg, #52658C, #73578D, #D1318E);
+    color: #000;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 .cabecalho {
@@ -89,7 +98,7 @@ body {
     justify-content: center;
     gap: 1rem;
 
-    border: 2px solid var(--color-destaque);
+    border: 2px solid #73578D;
     width: 50%;
     text-align: center;
     border-radius: 0.5rem;
@@ -102,7 +111,7 @@ body {
 }
 
 .apresentacao-links-sociais:hover {
-    background-color: #272727;
+    background: var(--color-gradiente);
 }
 
 .apresentacao-imagem {
@@ -110,8 +119,8 @@ body {
 }
 
 .rodape {
-    background-color: var(--color-destaque);
-    color: var(--color-bkg);
+    background: var(--color-gradiente);
+    color: var(--color-text);
     text-align: center;
     padding: 1%;
     font-family: var(--font2);
