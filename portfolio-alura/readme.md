@@ -28,7 +28,7 @@ Este projeto faz parte da Formação Front End da Platafroma Alura, apresentado 
 <br>
 
 <br>
-🧑‍🚀 A idéia deste projeto foi disponibilizada no curso de formação Front End "A partir do zero: Html, Css para projetos web", contendo 6 módulos e um total de 51 horas apresentado por Guilherme Lima, Rafaella Ballerini e monica Hillman ❤️‍🔥.
+🧑‍🚀 A idéia deste projeto foi disponibilizada no curso de formação Front End "A partir do zero: Html, Css para projetos web", contendo 6 módulos e um total de 51 horas apresentado por Guilherme Lima, Rafaella Ballerini e Monica Hillman ❤️‍🔥.
 
 ## 🚀 Tecnologias
 
