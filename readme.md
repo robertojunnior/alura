@@ -1,7 +1,7 @@
 <h1 align="center"> Projeto atual em desenvolvimento - Portfolio Alura </h1>
 
 <p align="center">
-Este projeto faz parte da Formação Front End da Platafroma Alura, apresentado por Guilherme Lima, Rafaella Ballerini e monica Hillman.<br/>
+Este projeto faz parte da Formação Front End da Platafroma Alura, apresentado por Guilherme Lima, Rafaella Ballerini e Monica Hillman.<br/>
 </p>
 
 <p align="center">
