@@ -33,6 +33,14 @@
         width: auto;
     }
 
+    .apresentacao-conteudo-titulo {
+        font-size: 1.5rem;
+    }
+
+    .titulo-destaque {
+        font-size: 1.75rem;
+    }
+
     .apresentacao-links-sociais {
         margin-bottom: 1rem;
         font-size: 1.05rem;
