@@ -1,10 +1,10 @@
-@media (max-width: 54rem ) {
+@media (max-width: 72rem ) {
     body {
         background-color: var(--color-bkg);
     }
 
     .cabecalho {
-        padding: 10%;    
+        padding: 5%;    
     }
 
     .cabecalho-menu {
@@ -14,6 +14,11 @@
     .apresentacao {
         flex-direction: column-reverse;
         padding: 5%;
+        height: 90%;
+    }
+
+    .apresentacao-link-subtitulo {
+        margin: 0.75rem 0;
     }
 
     .apresentacao-imagem {
@@ -26,11 +31,15 @@
 
     .apresentacao-links-sociais {
         margin-bottom: 1rem;
-        font-size: 1.25rem;
+        font-size: 1.05rem;
     }
 
     .apresentacao-links-sociais:hover {
         background-color: #272727;
+    }
+
+    .rodape {
+        padding: 5%;
     }
 
 }
