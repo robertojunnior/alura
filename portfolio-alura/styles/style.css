@@ -40,7 +40,6 @@ body {
     color: var(--color-destaque);
 } 
 
-
 .titulo-destaque {
     color: var(--color-destaque);
 }
@@ -64,7 +63,6 @@ body {
     font-size: var(--font-size-h1);
     font-family: var(--font1);
 }
-
 
 .apresentacao-conteudo-texto {
     font-size: var(--font-size-p);
