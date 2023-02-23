@@ -54,6 +54,14 @@ Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Minha intenção é compartilhar o avanço dos estudos e aprendizado, para que tenha aqui disponível um formato simples, responsivo e otimizado dos projetos para contrução de um portfólio de quem está iniciando em desenvolvimento web como Eu.
+
+<br>
+Fiz um vídeo da pré produção do conteúdo e postei no canal que criei do Youtube para compartilhar o processo de evolução do aprendizado, o nome do canal é <a target="_blank" href="https://youtu.be/ioa_y-WYMWI">
+    <img width="20px%" src="./portfolio-alura/assets/logo-one-youtube.png" alt="logo-one-developer">
+    </a>
+<br>
+
+
 <br> Para ver o projeto atual em desenvolvimento basta<a href="https://robertojunnior.github.io/alura/portfolio-alura/"> CLICAR AQUI.</a>🚀
 
 ## 🔖 Layout
