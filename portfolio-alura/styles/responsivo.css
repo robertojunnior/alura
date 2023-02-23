@@ -55,3 +55,9 @@
         font-size: 0.75rem;
     }
 }
+
+@media (min-width: 1400px) {
+    .apresentacao {
+        padding: 7%;
+    }    
+}
