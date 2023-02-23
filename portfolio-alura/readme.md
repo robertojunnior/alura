@@ -57,10 +57,10 @@ Este projeto está sob a licença MIT.
 <p>Para adquirir a imagem SVG da tela inicial do projeto basta, acessar o link a seguir: <a href="https://storyset.com/business">Business illustrations by Storyset</a>
 <br> A imagem é gratuita com atribuição.
 
+---
+
 Feito ❤️‍ by Roberto Junior 😁:wave: 
 <br>🧑‍🚀[Inscreva-se no canal do YouTube da Alura!](https://www.youtube.com/@Alura)
-
-
 
     
 <h4> Obrigado por visitar meu Git e se chegou até aqui dê um "FOLLOW" que retribuo, quem sabe não podemos colaborar em algum projeto juntos?
