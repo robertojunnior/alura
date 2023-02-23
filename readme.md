@@ -61,7 +61,10 @@ Os projetos no FIGMA foram desenvolvido por ALURA.<br>
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT.
+Este projeto está sob a licença MIT.
+<br>
+<p>Para adquirir a imagem SVG da tela inicial do projeto basta, acessar o link a seguir: <a href="https://storyset.com/business">Business illustrations by Storyset</a>
+<br> A imagem é gratuita com atribuição.
 
 ---
 
