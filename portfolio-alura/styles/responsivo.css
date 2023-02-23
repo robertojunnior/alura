@@ -1,4 +1,4 @@
-@media (max-width: 72rem ) {
+@media (max-width: 1200px ) {
 
     .cabecalho {
         padding: 5%;    
@@ -6,18 +6,17 @@
 
     .cabecalho-menu {
         justify-content: center;
+        gap: 3.5rem;
     }
     
     .apresentacao {
         flex-direction: column-reverse;
         padding: 5%;
-        height: 90%;
     }
 
     .apresentacao-about {
         flex-direction: column-reverse;
         padding: 5%;
-        height: 90%;
     }
 
     .apresentacao-link-subtitulo {
@@ -52,6 +51,6 @@
 
     .rodape {
         padding: 5%;
+        font-size: 0.75rem;
     }
 }
-

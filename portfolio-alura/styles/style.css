@@ -45,17 +45,18 @@ body {
 
 .cabecalho-menu-link {
     font-family: var(--font2);
-    font-size: 1rem;
+    font-size: var(--font-size-p);
     font-weight: 600;
     color: var(--color-destaque);
 } 
 
 .titulo-destaque {
     color: var(--color-destaque);
+    font-size: var(--font-size-h1);
 }
 
 .apresentacao {
-    padding: 9% 10%;
+    padding: 4% 10%;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -134,15 +135,15 @@ body {
 }
 
 .apresentacao-imagem-about {
-    width: 40%;
+    width: 37%;
 }
 
 .rodape {
     background: var(--color-gradiente);
     color: var(--color-text);
     text-align: center;
-    padding: 1%;
+    padding: 1.5%;
     font-family: var(--font2);
-    font-size: 0.75rem;
+    font-size: 1rem;
     font-weight: 600;
 }
