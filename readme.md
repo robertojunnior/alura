@@ -1,7 +1,7 @@
 <h1 align="center"> Fromação Front-end - ALURA </h1>
 
 <p align="center">
-Este é o 1º projeto que faz parte da "Formação Front-end" da Platafroma ALURA, apresentado por Guilherme Lima, Rafaella Ballerini e Monica Hillman.<br/>
+Abaixo estarão todos os projetos que fazem parte da "Formação Front-end" da Platafroma ALURA, apresentado por Guilherme Lima, Rafaella Ballerini e Monica Hillman.<br/>
 </p>
 
 <p align="center">
@@ -53,11 +53,11 @@ Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Minha intenção em compartilhar, é que tenha aqui disponível um formato simples, responsivo e otimizado de portfólio para quem esttá iniciando em desenvolvimento web como Eu, e para ver o estado atual que está o projeto basta<a href="https://robertojunnior.github.io/alura/portfolio-alura/"> CLICAR AQUI.</a>🚀
+Minha intenção em compartilhar, é que tenha aqui disponível um formato simples, responsivo e otimizado dos projetos em um portfólio para quem está iniciando em desenvolvimento web como Eu, e para ver o estado do projeto atual basta<a href="https://robertojunnior.github.io/alura/portfolio-alura/"> CLICAR AQUI.</a>🚀
 
 ## 🔖 Layout
-Este projeto no FIGMA foi desenvolvido por ALURA.<br>
-🖼️ Para acessá-lo, você precisa criar uma conta no FIGMA, caso já possua basta <a href="https://www.figma.com/file/NrzJacC887svMVfF9oC2jM/Portfolio-Projeto-2?node-id=0%3A1&t=jby4DOqQVo0tsRtG-0"> CLICAR AQUI.</a>
+Os projetos no FIGMA foram desenvolvido por ALURA.<br>
+🖼️ Para acessá-los, você precisa criar uma conta no FIGMA, caso já possua basta <a href="https://www.figma.com/file/NrzJacC887svMVfF9oC2jM/Portfolio-Projeto-2?node-id=0%3A1&t=jby4DOqQVo0tsRtG-0"> CLICAR AQUI.</a>
 
 ## :memo: Licença
 
