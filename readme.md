@@ -53,7 +53,8 @@ Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Minha intenção em compartilhar, é que tenha aqui disponível um formato simples, responsivo e otimizado dos projetos em um portfólio para quem está iniciando em desenvolvimento web como Eu, e para ver o estado do projeto atual basta<a href="https://robertojunnior.github.io/alura/portfolio-alura/"> CLICAR AQUI.</a>🚀
+Minha intenção é compartilhar o avanço dos estudos e aprendizado, para que tenha aqui disponível um formato simples, responsivo e otimizado dos projetos para contrução de um portfólio de quem está iniciando em desenvolvimento web como Eu.
+<br> Para ver o projeto atual em desenvolvimento basta<a href="https://robertojunnior.github.io/alura/portfolio-alura/"> CLICAR AQUI.</a>🚀
 
 ## 🔖 Layout
 Os projetos no FIGMA foram desenvolvido por ALURA.<br>
