@@ -90,7 +90,7 @@ body {
 .sobre-mim-texto {
     font-size: var(--font-size-p);
     font-family: var(--font2);
-    text-align: justify;
+    /* text-align: justify; */
 }
 
 .apresentacao-links {
