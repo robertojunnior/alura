@@ -17,6 +17,7 @@
     .apresentacao-about {
         flex-direction: column-reverse;
         padding: 5%;
+        margin-bottom: 5%;
     }
 
     .apresentacao-link-subtitulo {
