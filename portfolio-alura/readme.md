@@ -1,7 +1,7 @@
 <h1 align="center"> Projeto Portfolio Alura </h1>
 
 <p align="center">
-Este projeto faz parte da Formação Front End da Platafroma Alura, apresentado por Guilherme Lima, Rafaella Ballerini e Monica Hillman.<br/>
+Este é o 1º projeto que faz parte da Formação Front End da Platafroma Alura, apresentado por Guilherme Lima, Rafaella Ballerini e Monica Hillman.<br/>
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@ Este projeto faz parte da Formação Front End da Platafroma Alura, apresentado 
 
   <div align="center">
     <a target="_blank" href="https://robertojunnior.github.io/alura/portfolio-alura">
-    <img width="90%" src="./assets/mockup-entrega-github.png" alt="portfolio-alura">
+    <img width="90%" src="./assets/mockup-entrega-github-personalizado.png" alt="portfolio-alura">
     </a>
   </div>
 
