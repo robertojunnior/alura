@@ -53,7 +53,8 @@ Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Minha intenção em compartilhar, é que tenha aqui disponível um formato simples, responsivo e otimizado dos projetos em um portfólio para quem está iniciando em desenvolvimento web como Eu, e para ver o estado do projeto atual basta<a href="https://robertojunnior.github.io/alura/portfolio-alura/"> CLICAR AQUI.</a>🚀
+Minha intenção é compartilhar o avanço dos estudos e aprendizado, para que tenha aqui disponível um formato simples, responsivo e otimizado dos projetos para contrução de um portfólio de quem está iniciando em desenvolvimento web como Eu.
+<br> Para ver o projeto atual em desenvolvimento basta<a href="https://robertojunnior.github.io/alura/portfolio-alura/"> CLICAR AQUI.</a>🚀
 
 ## 🔖 Layout
 Os projetos no FIGMA foram desenvolvido por ALURA.<br>
@@ -63,7 +64,7 @@ Os projetos no FIGMA foram desenvolvido por ALURA.<br>
 
 Este projeto está sob a licença MIT.
 <br>
-<p>Para adquirir a imagem SVG da tela inicial do projeto basta, acessar o link a seguir: <a href="https://storyset.com/business">Business illustrations by Storyset</a>
+<p>Para adquirir e editar a imagem SVG da tela inicial do projeto, basta acessar o link a seguir: <a href="https://storyset.com/business">Business illustrations by Storyset</a>
 <br> A imagem é gratuita com atribuição.
 
 ---
