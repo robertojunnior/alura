@@ -1,4 +1,5 @@
-<h1 align="center"> Fromação Front-end - ALURA </h1>
+<h1 align="center"> Fromação Front-end - Alura  <a target="_blank" href="https://www.alura.com.br/cursos-online-front-end"><img width="60px" src="https://github.com/robertojunnior/alura/blob/main/portfolio-alura/assets/Alura.png" alt="portfolio-alura">
+    </a></h1>
 
 <p align="center">
 Abaixo estarão todos os projetos que fazem parte da "Formação Front-end" da Platafroma ALURA, apresentado por Guilherme Lima, Rafaella Ballerini e Monica Hillman.<br/>
@@ -10,7 +11,6 @@ Abaixo estarão todos os projetos que fazem parte da "Formação Front-end" da P
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
-
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
