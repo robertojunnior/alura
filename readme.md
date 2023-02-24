@@ -56,8 +56,8 @@ Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 Minha intenção é compartilhar o avanço dos estudos e aprendizado, para que tenha aqui disponível um formato simples, responsivo e otimizado dos projetos para contrução de um portfólio de quem está iniciando em desenvolvimento web como Eu.
 
 <br>
-Fiz um vídeo da pré produção do conteúdo e postei no canal que criei do Youtube para compartilhar o processo de evolução do aprendizado, o nome do canal é <a target="_blank" href="https://youtu.be/ioa_y-WYMWI">
-    <img width="20px%" src="./portfolio-alura/assets/logo-one-youtube.png" alt="logo-one-developer">
+📺Fiz um vídeo da pré produção do conteúdo e postei no canal que criei do Youtube para compartilhar o processo de evolução do aprendizado, o nome do canal é <a target="_blank" href="https://youtu.be/ioa_y-WYMWI">
+    <img width="25px" src="./portfolio-alura/assets/logo-one-youtube.png" alt="logo-one-developer">One Developer.
     </a>
 <br>
 
@@ -81,7 +81,7 @@ Feito ❤️‍ by Roberto Junior 😁:wave:
 <br>🧑‍🚀[Inscreva-se no canal do YouTube da Alura!](https://www.youtube.com/@Alura)
 
     
-<h4> Obrigado por visitar meu Git e se chegou até aqui dê um "FOLLOW" que retribuo, quem sabe não podemos colaborar em algum projeto juntos?
+<h4> Obrigado por visitar meu Git e se chegou até aqui dê um "Follow" que retribuo, quem sabe não podemos colaborar em algum projeto juntos?
 <br>
 <br>
 <p> Até a próxima! 😁🖖.
