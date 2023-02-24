@@ -43,7 +43,7 @@ Abaixo estarão todos os projetos que fazem parte da "Formação Front-end" da P
 
 ## 🚀 Tecnologias
 
-Esse projeto está sendo desenvolvido com as seguintes tecnologias:
+Este projeto está sendo desenvolvido com as seguintes tecnologias:
 
 <li> HTML
 <li> CSS
