@@ -1,5 +1,5 @@
 <h1 align="center"> <a target="_blank" href="https://www.alura.com.br/cursos-online-front-end"><img width="60px" src="https://github.com/robertojunnior/alura/blob/main/portfolio-alura/assets/Alura.png" alt="portfolio-alura">
-    </a>         Fromação Front-end - Alura  </h1>
+</a> Fromação Front-end - Alura  </h1>
 
 <p align="center">
 Abaixo estarão todos os projetos que fazem parte da "Formação Front-end" da Platafroma ALURA, apresentados por Guilherme Lima, Rafaella Ballerini e Monica Hillman🚀.<br/>
@@ -57,7 +57,7 @@ Minha intenção é compartilhar o avanço dos estudos e aprendizado, para que t
 
 <br>
 📺Fiz um vídeo da pré produção do conteúdo e postei no canal que criei do Youtube para compartilhar o processo de evolução do aprendizado, o nome do canal é <a target="_blank" href="https://youtu.be/ioa_y-WYMWI">
-    <img width="25px" src="./portfolio-alura/assets/logo-one-youtube.png" alt="logo-one-developer">One Developer.
+    <img width="20px" src="./portfolio-alura/assets/logo-one-youtube.png" alt="logo-one-developer"> "One Developer".
     </a>
 <br>
 
