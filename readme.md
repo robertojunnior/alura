@@ -22,7 +22,7 @@ Abaixo estarão todos os projetos que fazem parte da "Formação Front-end" da P
 <br>
   <div align="center">
     <a target="_blank" href="https://robertojunnior.github.io/alura/portfolio-alura">
-    <img width="90%" src="https://github.com/robertojunnior/alura/blob/main/portfolio-alura/assets/mockup-entrega-github.png" alt="portfolio-alura">
+    <img width="90%" src="./portfolio-alura/assets/mockup-entrega-github.png" alt="portfolio-alura">
     </a>
   </div>
 <br>
