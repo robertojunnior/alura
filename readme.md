@@ -1,4 +1,4 @@
-<h1 align="center"> <a target="_blank" href="https://www.alura.com.br/cursos-online-front-end"><img width="60px" src="https://github.com/robertojunnior/alura/blob/main/portfolio-alura/assets/Alura.png" alt="portfolio-alura">
+<h1 align="center"> <a target="_blank" href="https://www.alura.com.br/cursos-online-front-end"><img width="60px" src="./portfolio-alura/assets/Alura.png" alt="portfolio-alura">
 </a> Fromação Front-end - Alura  </h1>
 
 <p align="center">
@@ -31,7 +31,7 @@ Abaixo estarão todos os projetos que fazem parte da "Formação Front-end" da P
   
    <div align="center">
     <a target="_blank" href="https://robertojunnior.github.io/alura/portfolio-alura">
-    <img width="90%" src="https://github.com/robertojunnior/alura/blob/main/portfolio-alura/assets/mockup-entrega-github-personalizado.png" alt="portfolio-alura">
+    <img width="90%" src="./portfolio-alura/assets/mockup-entrega-github-personalizado.png" alt="portfolio-alura">
     </a>
   </div>
 
