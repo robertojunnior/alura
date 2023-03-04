@@ -44,9 +44,6 @@ Abaixo estarão todos os projetos que fazem parte da "Formação Front-end" da P
 <br>
 <br>
 
-<br>
-🧑‍🚀 A idéia deste projeto foi disponibilizada no curso de formação Front End "A partir do zero: Html, Css para projetos web", contendo 6 módulos e um total de 51 horas apresentado por Guilherme Lima, Rafaella Ballerini e Monica Hillman ❤️‍🔥.
-
 ## 🚀 Tecnologias
 
 Este projeto está sendo desenvolvido com as seguintes tecnologias:
@@ -59,7 +56,7 @@ Este projeto está sendo desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Minha intenção é compartilhar o avanço dos estudos e aprendizado, para que tenha aqui disponível um formato simples, responsivo e otimizado dos projetos que fazem parte da contrução de meu portfólio em desenvolvimento web.
+Minha intenção é compartilhar o avanço dos estudos e aprendizado, para que tenha aqui disponível um formato simples, responsivo e otimizado dos projetos que fazem parte da contrução de meu portfólio em desenvolvimento web ❤️‍🔥.
 
 <br>
 📺Fiz um vídeo da pré produção do projeto "Portfolio Alura", postei no canal que criei do Youtube para compartilhar o processo de evolução do aprendizado, o nome do canal é <a target="_blank" href="https://youtu.be/ioa_y-WYMWI">One Developer
