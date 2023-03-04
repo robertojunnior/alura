@@ -59,10 +59,10 @@ Este projeto está sendo desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Minha intenção é compartilhar o avanço dos estudos e aprendizado, para que tenha aqui disponível um formato simples, responsivo e otimizado dos projetos para contrução de um portfólio de quem está iniciando em desenvolvimento web como Eu.
+Minha intenção é compartilhar o avanço dos estudos e aprendizado, para que tenha aqui disponível um formato simples, responsivo e otimizado dos projetos que fazem parte da contrução de m eu portfólio em desenvolvimento web como Eu.
 
 <br>
-📺Fiz um vídeo da pré produção do conteúdo, postei no canal que criei do Youtube para compartilhar o processo de evolução do aprendizado, o nome do canal é <a target="_blank" href="https://youtu.be/ioa_y-WYMWI">One Developer
+📺Fiz um vídeo da pré produção do projeto "Portfolio Alura", postei no canal que criei do Youtube para compartilhar o processo de evolução do aprendizado, o nome do canal é <a target="_blank" href="https://youtu.be/ioa_y-WYMWI">One Developer
     <img width="20px" src="./portfolio-alura/assets/logo-one-youtube.png" alt="logo-one-developer">.
     </a>
 <br>
@@ -71,8 +71,8 @@ Minha intenção é compartilhar o avanço dos estudos e aprendizado, para que t
 <br> Para ver o projeto atual em desenvolvimento basta<a href="https://robertojunnior.github.io/alura/portfolio-alura/"> CLICAR AQUI.</a>🚀
 
 ## 🔖 Layout
-Os projetos no FIGMA foram desenvolvido por ALURA.<br>
-🖼️ Para acessá-los, você precisa criar uma conta no FIGMA, caso já possua basta <a href="https://www.figma.com/file/NrzJacC887svMVfF9oC2jM/Portfolio-Projeto-2?node-id=0%3A1&t=jby4DOqQVo0tsRtG-0"> CLICAR AQUI.</a>
+🖼️Os projetos no FIGMA são privados e foram desenvolvidos pela ALURA.<br>
+ 
 
 ## :memo: Licença
 
