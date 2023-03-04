@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;    
 }
-
+/*como regra, começo aqui o aprendizado do uso do BEM no CSS*/
 :root {
     --color-primary: #ffffff;
     --color-secondary: #01c76e;
