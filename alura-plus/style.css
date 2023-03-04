@@ -1,6 +1,7 @@
 * {
     margin: 0;
-    padding: 0;    
+    padding: 0;
+    color: var(--color-primary);
 }
 /*como regra, começo aqui o aprendizado do uso do BEM no CSS*/
 :root {
@@ -52,7 +53,12 @@ body {
     margin-bottom: 1rem;
 }
 
-.btn--secondary {
+.container__btn:hover {
+    transform: scale(1.05);
+    transition: 1s;
+}
+
+.secondary--btn {
     background: transparent;
     border: 2px solid var(--color-secondary);
 }
@@ -65,20 +71,32 @@ body {
     margin: 0 6rem;
 }
 
-.secondary__imagem {
-    width: 80%;
-}
-
 .secondary {
     align-items: center;
+}
+
+.secondary__imagem {
+    width: 80%;
+    padding: 3rem;
+    text-align: center;
 }
 
 .descricao__titulo {
     font-size: 3rem;
     font-weight: 700;
     color: var(--color-primary);
+    margin-bottom: 0.1rem;
 }
 
 .descricao__texto {
     font-size: 1.25rem;
+}
+
+.secondary--btn-assine {
+    display: inline-block;
+    margin-top: 1rem;
+}
+
+.container__descricao {
+    padding: 2rem;
 }
