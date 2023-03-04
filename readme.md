@@ -71,7 +71,7 @@ Minha intenção é compartilhar o avanço dos estudos e aprendizado, para que t
 <br> Para ver o projeto atual em desenvolvimento basta<a href="https://robertojunnior.github.io/alura/portfolio-alura/"> CLICAR AQUI.</a>🚀
 
 ## 🔖 Layout
-🖼️Os projetos no FIGMA são privados e foram desenvolvidos pela ALURA.<br>
+🖼️O projeto original do FIGMA é privado e foi desenvolvido pela ALURA.<br>
  
 
 ## :memo: Licença
