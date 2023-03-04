@@ -18,32 +18,35 @@ Abaixo estarão todos os projetos que fazem parte da "Formação Front-end" da P
 
 <br>
 
-<h1 align="center"> Projeto atual em desenvolvimento - Portfolio Alura </h1>
+<h1 align="center"> Projeto atual em desenvolvimento - Alura Plus </h1>
 <br>
   <div align="center">
-    <a target="_blank" href="https://robertojunnior.github.io/alura/portfolio-alura">
-    <img width="90%" src="./portfolio-alura/assets/mockup-entrega-github.png" alt="portfolio-alura">
+    <a target="_blank" href="https://robertojunnior.github.io/alura/alura-plus">
+    <img width="80%" src="./alura-plus/assets/screencapture-etapa-0-desenvolvimento.png" alt="alura-plus">
     </a>
   </div>
 <br>
-<h1 align="center">Projeto personalizado - Portfolio Alura </h1>
+<h1 align="center">Último projeto realizado - Portfolio Alura </h1>
 <br>
   
    <div align="center">
     <a target="_blank" href="https://robertojunnior.github.io/alura/portfolio-alura">
-    <img width="90%" src="./portfolio-alura/assets/mockup-entrega-github-personalizado.png" alt="portfolio-alura">
-    </a>
+      <img width="80%" src="./portfolio-alura/assets/mockup-entrega-github.png" alt="portfolio-alura">
+    </a>  
+  
+  <h1 align="center">Versão personalizada - Portfolio Alura </h1>
+  
+  <a target="_blank" href="https://robertojunnior.github.io/alura/portfolio-alura">
+      <img width="80%" src="./portfolio-alura/assets/mockup-entrega-github-personalizado.png" alt="portfolio-alura">
+    </a> 
   </div>
 
 <br>
 <br>
 
-<br>
-🧑‍🚀 A idéia deste projeto foi disponibilizada no curso de formação Front End "A partir do zero: Html, Css para projetos web", contendo 6 módulos e um total de 51 horas apresentado por Guilherme Lima, Rafaella Ballerini e Monica Hillman ❤️‍🔥.
-
 ## 🚀 Tecnologias
 
-Este projeto está sendo desenvolvido com as seguintes tecnologias:
+Estes projetos estão sendo desenvolvidos com as seguintes tecnologias:
 
 <li> HTML
 <li> CSS
@@ -53,10 +56,10 @@ Este projeto está sendo desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Minha intenção é compartilhar o avanço dos estudos e aprendizado, para que tenha aqui disponível um formato simples, responsivo e otimizado dos projetos para contrução de um portfólio de quem está iniciando em desenvolvimento web como Eu.
+Minha intenção é compartilhar o avanço dos estudos e aprendizado, para que tenha aqui disponível um formato simples, responsivo e otimizado dos projetos que fazem parte da construção de meu portfólio em desenvolvimento web ❤️‍🔥.
 
 <br>
-📺Fiz um vídeo da pré produção do conteúdo, postei no canal que criei do Youtube para compartilhar o processo de evolução do aprendizado, o nome do canal é <a target="_blank" href="https://youtu.be/ioa_y-WYMWI">One Developer
+📺Fiz um vídeo da pré produção do projeto "Portfolio Alura", postei no canal que criei do Youtube para compartilhar o processo de evolução do aprendizado, o nome do canal é <a target="_blank" href="https://youtu.be/ioa_y-WYMWI">One Developer
     <img width="20px" src="./portfolio-alura/assets/logo-one-youtube.png" alt="logo-one-developer">.
     </a>
 <br>
@@ -65,8 +68,8 @@ Minha intenção é compartilhar o avanço dos estudos e aprendizado, para que t
 <br> Para ver o projeto atual em desenvolvimento basta<a href="https://robertojunnior.github.io/alura/portfolio-alura/"> CLICAR AQUI.</a>🚀
 
 ## 🔖 Layout
-Os projetos no FIGMA foram desenvolvido por ALURA.<br>
-🖼️ Para acessá-los, você precisa criar uma conta no FIGMA, caso já possua basta <a href="https://www.figma.com/file/NrzJacC887svMVfF9oC2jM/Portfolio-Projeto-2?node-id=0%3A1&t=jby4DOqQVo0tsRtG-0"> CLICAR AQUI.</a>
+🖼️O projeto original do FIGMA é privado e foi desenvolvido pela ALURA.<br>
+ 
 
 ## :memo: Licença
 

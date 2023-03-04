@@ -1,7 +1,7 @@
 <h1 align="center"> Projeto Alura Plus </h1>
 
 <p align="center">
-Este é o 2º projeto que faz parte da Formação Front End da Platafroma Alura, apresentado por Guilherme Lima, Rafaella Ballerini e Monica Hillman.<br/>
+Este é o 2º projeto ainda em desenvolvimento que faz parte da Formação Front End da Platafroma Alura, apresentado por Guilherme Lima, Rafaella Ballerini e Monica Hillman.<br/>
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@ Este é o 2º projeto que faz parte da Formação Front End da Platafroma Alura,
 
   <div align="center">
     <a target="_blank" href="https://robertojunnior.github.io/alura/alura-plus/">
-    <img width="90%" src="./assets/screencapture-etapa-0-desenvolvimento.png" alt="portfolio-alura">
+    <img width="90%" src="./assets/screencapture-etapa-0-desenvolvimento.png" alt="alura-plus">
     </a>
   </div>
 
