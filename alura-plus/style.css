@@ -64,3 +64,21 @@ body {
 .container__box {
     margin: 0 6rem;
 }
+
+.secondary__imagem {
+    width: 80%;
+}
+
+.secondary {
+    align-items: center;
+}
+
+.descricao__titulo {
+    font-size: 3rem;
+    font-weight: 700;
+    color: var(--color-primary);
+}
+
+.descricao__texto {
+    font-size: 1.25rem;
+}
