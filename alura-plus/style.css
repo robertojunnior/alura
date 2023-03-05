@@ -100,3 +100,22 @@ body {
 .container__descricao {
     padding: 2rem;
 }
+
+.dispositivos {
+    text-align: center;
+}
+
+.dispositivos__titulo {
+    font-size: 3rem;
+}
+
+.dispositivos__lista {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    margin: 5rem 0;
+}
+
+.lista__item {
+    font-size: 2rem;
+}
