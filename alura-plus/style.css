@@ -119,3 +119,34 @@ body {
 .lista__item {
     font-size: 2rem;
 }
+
+.rodape {
+    text-align: center;
+    padding: 2rem;
+    margin: 5em 0;
+}
+
+.rodape__logo {
+    width: 100px;
+}
+
+.rodape__lista {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin: 1rem;
+    list-style-type: none;
+}
+
+.lista__link a {
+    text-decoration: none;
+}
+
+.lista__link a:hover {
+    color: var(--color-secondary);
+}
+
+.rodape__texto {
+    text-align: center;
+    padding: 1rem;
+}
