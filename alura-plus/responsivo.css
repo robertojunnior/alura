@@ -1,0 +1,10 @@
+@media screen and (max-width: 768px) {
+    .container {
+        display: block;
+        background-image: none;
+    }
+
+    .container_imagem {
+        width: 50vw;
+    }
+}
