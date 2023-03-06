@@ -4,12 +4,16 @@
         background-image: none;
     }
 
+    .rodape__logo {
+        padding: 1rem;
+    }
+
     .container__imagem {
         width: 50vw;
     }
 
     .container__caixa {
-        margin: 5rem 2rem;
+        margin: 2rem 2rem;
     }
 
     .secondary {
