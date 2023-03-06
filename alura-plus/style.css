@@ -1,8 +1,3 @@
-* {
-    margin: 0;
-    padding: 0;
-    color: var(--color-primary);
-}
 /*como regra, começo aqui o aprendizado do uso do BEM no CSS*/
 :root {
     --color-primary: #ffffff;
@@ -20,16 +15,18 @@ body {
     font-weight: 400;
 }
 
+* {
+    margin: 0;
+    padding: 0;
+    color: var(--color-primary);
+}
+
 .principal {
     background-image: url(./assets/background-instrutores.png);
     background-repeat: no-repeat;
     background-size: contain;
     align-items: center;
     text-align: center;
-}
-
-.container__imagem {
-    margin: 1rem 0 2rem 0;
 }
 
 .container {
@@ -41,6 +38,10 @@ body {
 .container__titulo {
     font-size: 1.75rem;
     font-weight: 700;
+}
+
+.container__imagem {
+    margin: 1rem 0 2rem 0;
 }
 
 .container__btn {
@@ -73,16 +74,19 @@ body {
 
 .secondary {
     align-items: center;
+    margin: 0 10rem;
 }
 
 .secondary__imagem {
-    width: 80%;
-    padding: 3rem;
-    text-align: center;
+    width: 70%;
+}
+
+.imagem--telas {
+   text-align: right;
 }
 
 .descricao__titulo {
-    font-size: 3rem;
+    font-size: 2.5rem;
     font-weight: 700;
     color: var(--color-primary);
     margin-bottom: 0.1rem;
@@ -98,7 +102,7 @@ body {
 }
 
 .container__descricao {
-    padding: 2rem;
+    padding: 1rem;
 }
 
 .dispositivos {

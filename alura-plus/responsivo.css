@@ -2,9 +2,18 @@
     .container {
         display: block;
         background-image: none;
+        text-align: center;
     }
 
-    .container_imagem {
+    .container__imagem {
+        width: 50vw;
+    }
+
+    .container__caixa {
+        margin: 2rem 2rem;
+    }
+
+    .secondary__imagem {
         width: 50vw;
     }
 }
