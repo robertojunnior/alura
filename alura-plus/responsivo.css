@@ -29,6 +29,10 @@
         text-align: center;
     }
 
+    .dispositivos__titulo {
+        font-size: 2rem;
+    }
+
     .dispositivos__lista {
         display: block;
     }
