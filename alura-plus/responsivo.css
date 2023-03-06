@@ -2,7 +2,6 @@
     .container {
         display: block;
         background-image: none;
-        text-align: center;
     }
 
     .container__imagem {
@@ -10,10 +9,27 @@
     }
 
     .container__caixa {
-        margin: 2rem 2rem;
+        margin: 5rem 2rem;
+    }
+
+    .secondary {
+        text-align: center;
+        margin: -5rem 0;
     }
 
     .secondary__imagem {
         width: 50vw;
+    }
+
+    .imagem--telas {
+        text-align: center;
+    }
+
+    .dispositivos__lista {
+        display: block;
+    }
+
+    .rodape__lista {
+        display: block;
     }
 }
