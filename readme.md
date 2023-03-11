@@ -18,20 +18,20 @@ Abaixo estarão todos os projetos que fazem parte da "Formação Front-end" da P
 
 <br>
 
-<h1 align="center"> Projeto atual em desenvolvimento - Alura Plus </h1>
+<h1 align="center"> Projeto atual em desenvolvimento - Alura Books </h1>
 <br>
   <div align="center">
-    <a target="_blank" href="https://robertojunnior.github.io/alura/alura-plus">
-    <img width="80%" src="./alura-plus/assets/screencapture-etapa-0-desenvolvimento.png" alt="alura-plus">
+    <a target="_blank" href="https://robertojunnior.github.io/alura/alura-books">
+    <img width="80%" src="./alura-book/assets/projeto-figma.png" alt="alura-plus">
     </a>
   </div>
 <br>
-<h1 align="center">Último projeto realizado - Portfolio Alura </h1>
+<h1 align="center">Último projeto realizado - Alura Plus </h1>
 <br>
   
    <div align="center">
-    <a target="_blank" href="https://robertojunnior.github.io/alura/portfolio-alura">
-      <img width="80%" src="./portfolio-alura/assets/mockup-entrega-github.png" alt="portfolio-alura">
+    <a target="_blank" href="https://robertojunnior.github.io/alura/alura-plus">
+      <img width="80%" src="./alura-plus/assets/projeto-alura-plus.png" alt="alura-plus">
     </a>  
   
   <h1 align="center">Versão personalizada - Portfolio Alura </h1>
