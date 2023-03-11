@@ -12,6 +12,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    position: relative;
 }
 
 .container {
@@ -21,4 +22,37 @@
 
 .container__imagem {
     padding: 1rem;
+}
+
+.lista-menu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    width: 60vw;
+}
+
+.container__botao:checked ~ .lista-menu {
+    display: block;
+}
+
+.lista-menu__titulo, .lista-menu__item {
+    padding: 1rem;
+    background-color: var(--branco);
+}
+
+.lista-menu__titulo {
+    color:var(--laranja);
+    font-weight: 700;
+}
+
+.lista-menu__link {
+    background: var(--azul-gradiente);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-transform: uppercase;
+}
+
+.container__botao {
+    display: none;
 }
