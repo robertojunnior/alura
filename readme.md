@@ -36,7 +36,7 @@ Abaixo estarão todos os projetos que fazem parte da "Formação Front-end" da P
   
   <h1 align="center">Versão personalizada - Portfolio Alura </h1>
   
-  <a target="_blank" href="https://github.com/robertojunnior/alura/tree/main/portfolio-alura>
+  <a target="_blank" href="https://github.com/robertojunnior/alura/tree/main/portfolio-alura">
       <img width="80%" src="./portfolio-alura/assets/mockup-entrega-github-personalizado.png" alt="portfolio-alura">
     </a> 
   </div>
