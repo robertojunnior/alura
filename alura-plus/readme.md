@@ -50,7 +50,7 @@ Minha intenção em compartilhar, é que tenha aqui disponível um formato simpl
 
 ## :memo: Licença
 
-Este projeto está sob a licença MIT.
+<p>Este projeto está sob a licença MIT.
 <br>
 ---
 
