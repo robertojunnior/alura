@@ -20,7 +20,7 @@ Este é o 3º projeto ainda em desenvolvimento que faz parte da Formação Front
 
   <div align="center">
     <a target="_blank" href="https://robertojunnior.github.io/alura/alura-book/">
-    <img width="90%" src="./assets/projeto-figma.png" alt="alura-book">
+    <img width="90%" src="./img/projeto-figma.png" alt="alura-book">
     </a>
   </div>
 
