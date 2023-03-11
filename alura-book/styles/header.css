@@ -1,6 +1,6 @@
 .cabecalho__menu-hamburguer {
     width: 24px;
     height: 24px;
-    background-image: url(../assets/Menu.svg);
+    background-image: url(../img/Menu.svg);
     display: inline-block;
 }
