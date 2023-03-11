@@ -44,7 +44,7 @@ Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 
 Este projeto traz a metodologia "Mobile-First" como principal característica, suas variáveis e @media-queries.
 Minha intenção em compartilhar, é que tenha aqui disponível um formato simples, responsivo e otimizado do projeto com minha versão estilizada e toda evolução do aprendizado.
-<br>Para visualizar a versão atual é só<a href="https://robertojunnior.github.io/alura/alura-plus/"> CLICAR AQUI.</a>🚀
+<br>Para visualizar a versão atual é só<a href="https://robertojunnior.github.io/alura/alura-book/"> CLICAR AQUI.</a>🚀
 
 ## 🔖 Layout
 🖼️ Este projeto no FIGMA foi desenvolvido por ALURA.<br>
