@@ -2,6 +2,8 @@
     width: 24px;
     height: 24px;
     background-image: url(../img/Menu.svg);
+    background-repeat:no-repeat;
+    background-position: center;
     display: inline-block;
 }
 
@@ -10,11 +12,13 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 1rem;
 }
 
 .container {
     display: flex;
     align-items: center;
-    gap: 1rem;
+}
+
+.container__imagem {
+    padding: 1rem;
 }
