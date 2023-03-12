@@ -31,7 +31,7 @@ Abaixo estarão todos os projetos que fazem parte da "Formação Front-end" da P
   
    <div align="center">
     <a target="_blank" href="https://github.com/robertojunnior/alura/tree/main/alura-plus">
-      <img width="80%" src="./alura-plus/assets/projeto-alura-plus.png" alt="alura-plus">
+      <img width="80%" src="./alura-plus/assets/mockup-entrega.png" alt="alura-plus">
     </a>  
   
   <h1 align="center">Versão personalizada - Portfolio Alura </h1>
