@@ -4,6 +4,21 @@
         background-image: none;
     }
 
+    .principal {
+        height: 100%;
+        margin-bottom: 5rem;
+    }
+
+    .secondary {
+        text-align: center;
+        height: 100%;
+        margin: 5rem auto;
+    }
+
+    .secondary__imagem {
+        width: 50vw;
+    }
+
     .rodape__logo {
         padding: 1rem;
     }
@@ -14,15 +29,6 @@
 
     .container__caixa {
         margin: 2rem 2rem;
-    }
-
-    .secondary {
-        text-align: center;
-        margin: -5rem 0;
-    }
-
-    .secondary__imagem {
-        width: 50vw;
     }
 
     .imagem--telas {
