@@ -19,6 +19,11 @@
         width: 50vw;
     }
 
+    .descricao__titulo {
+        font-size: 2rem;
+        font-weight: 700;
+    }
+
     .rodape__logo {
         padding: 1rem;
     }
