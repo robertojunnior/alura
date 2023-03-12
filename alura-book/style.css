@@ -3,13 +3,9 @@
 :root {
     --cor-fundo:#EBECEE;
     --branco: #ffffff;
-<<<<<<< HEAD
     --laranja: #eb9800;
     --azul-gradiente: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
     --font-principal: "Poppins";
-=======
-
->>>>>>> code_personal
 }
 
 body {
