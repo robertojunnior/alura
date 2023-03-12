@@ -8,6 +8,7 @@
 }
 
 body {
+    box-sizing: border-box;
     background-color: var(--color-bkg);
     color: var(--color-primary);
     font-family: var(--font-principal);
@@ -74,7 +75,7 @@ body {
 
 .secondary {
     align-items: center;
-    margin: -4rem 10rem;
+    margin: 0 10rem;
 }
 
 .secondary__imagem {
