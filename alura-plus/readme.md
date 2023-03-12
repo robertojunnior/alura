@@ -20,7 +20,7 @@ Este é o 2º projeto ainda em desenvolvimento que faz parte da Formação Front
 
   <div align="center">
     <a target="_blank" href="https://robertojunnior.github.io/alura/alura-plus/">
-    <img width="90%" src="./assets/projeto-alura-plus.png" alt="alura-plus">
+    <img width="90%" src="./assets/mockup-entrega.png" alt="alura-plus">
     </a>
   </div>
 
