@@ -5,6 +5,7 @@
     --color-btn: #167BF7;
     --color-bkg: #00030C;
     --font-principal: 'inter', sans-serif;
+    --color-gradient: linear-gradient(109.8deg, #01C76E 20.69%, #0D4080 110.8%);
 }
 
 body {
@@ -47,7 +48,7 @@ body {
 
 .container__btn {
     display: block;
-    background: var(--color-btn);
+    background: var(--color-gradient);
     padding: 1em;
     border-radius: 8px;
     color: var(--color-primary);
@@ -62,7 +63,7 @@ body {
 
 .secondary--btn {
     background: transparent;
-    border: 2px solid var(--color-btn);
+    border: 2px solid var(--color-secondary);
 }
 
 .container__aviso {
