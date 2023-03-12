@@ -84,16 +84,6 @@ body {
     height: 70vh;
     align-items: center;
     margin: 0 10rem;
-<<<<<<< HEAD
-=======
-}
-
-.color--background {
-    background: var(--color-gradient);
-    height: 30%;
-    width: 80%;
-    z-index: -1;
->>>>>>> code_personal
 }
 
 .secondary__imagem {
