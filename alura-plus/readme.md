@@ -11,18 +11,25 @@ Este é o 2º projeto ainda em desenvolvimento que faz parte da Formação Front
   <a href="#memo-licença">Licença</a>
 </p>
 
-
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
-
 <br>
-
   <div align="center">
     <a target="_blank" href="https://robertojunnior.github.io/alura/alura-plus/">
     <img width="90%" src="./assets/mockup-entrega.png" alt="alura-plus">
     </a>
   </div>
+<br>
+<div align="center">
+<h3>Página completa do projeto Desktop e Mobile</h3><br>
+    <a target="_blank" href="https://robertojunnior.github.io/alura/alura-plus/">
+    <img width="20%" src="./assets/pagina-completa-mobile.png" alt="alura-plus">
+    </a>
+    <a target="_blank" href="https://robertojunnior.github.io/alura/alura-plus/">
+    <img width="62%" src="./assets/pagina-completa-desktop.png" alt="alura-plus">
+    </a>
+</div>
 
 <br>
 <br>
