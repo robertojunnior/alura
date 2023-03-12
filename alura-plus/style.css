@@ -75,8 +75,12 @@ body {
 
 .secondary {
     align-items: center;
-    margin: -4rem 10rem;
+    margin: 0 10rem;
 }
+
+/* .secondary--plataformas {
+    margin-top: 0;
+} */
 
 .secondary__imagem {
     width: 80%;
