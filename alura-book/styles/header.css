@@ -12,12 +12,17 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+<<<<<<< HEAD
     position: relative;
+=======
+    padding: 1rem;
+>>>>>>> code_personal
 }
 
 .container {
     display: flex;
     align-items: center;
+<<<<<<< HEAD
 }
 
 .container__imagem {
@@ -56,3 +61,7 @@
 .container__botao {
     display: none;
 }
+=======
+    gap: 1rem;
+}
+>>>>>>> code_personal

@@ -5,6 +5,8 @@
     --color-btn: #167BF7;
     --color-bkg: #00030C;
     --font-principal: 'inter', sans-serif;
+    --color-gradient: linear-gradient(109.8deg, #01C76E 20.69%, #0D4080 110.8%);
+    --color-rodape: linear-gradient(117deg, rgba(15, 47, 73, 0.31) 20.39%, rgba(13, 63, 126, 0.98532) 64.49%, #01C76E 102.46%);
 }
 
 body {
@@ -47,7 +49,7 @@ body {
 
 .container__btn {
     display: block;
-    background: var(--color-btn);
+    background: var(--color-gradient);
     padding: 1em;
     border-radius: 8px;
     color: var(--color-primary);
@@ -62,7 +64,12 @@ body {
 
 .secondary--btn {
     background: transparent;
-    border: 2px solid var(--color-btn);
+    border: 2px solid var(--color-secondary);
+}
+
+.secondary--btn:hover {
+    background: #01c76e56;
+    border: 2px solid var(--color-secondary);
 }
 
 .container__aviso {
@@ -74,12 +81,28 @@ body {
 }
 
 .secondary {
+    height: 70vh;
     align-items: center;
     margin: 0 10rem;
+<<<<<<< HEAD
+=======
+}
+
+.color--background {
+    background: var(--color-gradient);
+    height: 30%;
+    width: 80%;
+    z-index: -1;
+>>>>>>> code_personal
 }
 
 .secondary__imagem {
     width: 80%;
+}
+
+.secondary__imagem:hover {
+    transform: scale(1.02);
+    transition: 1s;
 }
 
 .imagem--telas {
@@ -87,9 +110,15 @@ body {
 }
 
 .descricao__titulo {
-    font-size: 2.5rem;
+    font-size: 3rem;
     font-weight: 700;
-    color: var(--color-primary);
+    
+    background-image: var(--color-gradient);
+    color: #000;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
     margin-bottom: 0.1rem;
 }
 
@@ -108,17 +137,24 @@ body {
 
 .dispositivos {
     text-align: center;
+    margin-top: 3rem;
 }
 
 .dispositivos__titulo {
-    font-size: 3rem;
+    font-size: 3.25rem;
+    background-image: var(--color-gradient);
+    color: #000;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    
 }
 
 .dispositivos__lista {
     display: flex;
     justify-content: center;
     list-style-type: none;
-    margin: 5rem 0;
+    margin: 4rem 0 6rem;
 }
 
 .lista__item {
@@ -126,9 +162,9 @@ body {
 }
 
 .rodape {
+    background: var(--color-rodape);
     text-align: center;
     padding: 2rem;
-    margin: 5rem 0 2rem;
 }
 
 .rodape__logo {
@@ -154,4 +190,5 @@ body {
 .rodape__texto {
     text-align: center;
     padding: 1rem;
+    font-size: 0.75rem;
 }
