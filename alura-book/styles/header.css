@@ -22,3 +22,13 @@
 .container__imagem {
     padding: 1rem;
 }
+
+.lista__menu {
+    display: none;
+}
+
+.container__botao:checked ~ .lista__menu {
+    display: block;
+}
+/* O acento ~ é um combinador no css, ele busca o elemento 
+que vem em seguida */
