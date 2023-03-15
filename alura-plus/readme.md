@@ -49,7 +49,7 @@ Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Minha intenção em compartilhar, é que tenha aqui disponível um formato simples, responsivo e otimizado do projeto com minha versão estilizada e toda evolução do aprendizado.
+Minha intenção em compartilhar, é que tenha aqui disponível um formato simples, responsivo e otimizado do projeto estilizado e toda evolução do meu aprendizado.
 <br>Para visualizar a versão atual é só<a href="https://robertojunnior.github.io/alura/alura-plus/"> CLICAR AQUI.</a>🚀
 
 ## 🔖 Layout
