@@ -18,28 +18,37 @@ Abaixo estarão todos os projetos que fazem parte da "Formação Front-end" da P
 
 <br>
 
-<h1 align="center"> Projeto atual em desenvolvimento - Alura Books </h1>
+
+  
+<section align="center">
+  <h1 align="center"> Projeto em desenvolvimento - Alura Books </h1>
 <br>
   <div align="center">
     <a target="_blank" href="https://github.com/robertojunnior/alura/tree/main/alura-book">
     <img width="80%" src="./alura-book/img/projeto-figma.png" alt="alura-plus">
     </a>
   </div>
+
 <br>
 <h1 align="center">Último projeto realizado - Alura Plus </h1>
 <br>
-  
-   <div align="center">
-    <a target="_blank" href="https://github.com/robertojunnior/alura/tree/main/alura-plus">
-      <img width="80%" src="./alura-plus/assets/mockup-entrega.png" alt="alura-plus">
-    </a>  
-  
+
+  <a target="_blank" href="https://github.com/robertojunnior/alura/tree/main/alura-plus">
+  <img width="80%" src="./alura-plus/assets/mockup-entrega.png" alt="alura-plus">
+  </a>  
+
   <h1 align="center">Projeto - Portfolio Alura </h1>
-  
+
   <a target="_blank" href="https://github.com/robertojunnior/alura/tree/main/portfolio-alura">
-      <img width="80%" src="./portfolio-alura/assets/mockup-entrega-github-personalizado.png" alt="portfolio-alura">
-    </a> 
-  </div>
+  <img width="80%" src="./portfolio-alura/assets/mockup-entrega-github-personalizado.png" alt="portfolio-alura">
+  </a> 
+
+<h1 align="center">Projeto - Conversor de Moedas </h1>
+
+  <a target="_blank" href="https://github.com/robertojunnior/conversor-de-moedas/tree/main">
+  <img width="80%" src="https://github.com/robertojunnior/conversor-de-moedas/blob/main/imagens/mockup-entrega-conversor.png?raw=true" alt="imagem do site do projeto conversor de moedas">
+  </a> 
+</section>
 
 <br>
 <br>
