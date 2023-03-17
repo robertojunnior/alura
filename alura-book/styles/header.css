@@ -8,7 +8,7 @@
 }
 
 .cabecalho {
-   background-color: var(--branco);
+    background-color: var(--branco);
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -21,13 +21,14 @@
 }
 
 .container__imagem {
-    padding: 1rem;
+    padding: 1em;
 }
 
 .lista__menu {
     display: none;
     position: absolute;
     top: 100%;
+    width: 60vw;
 }
 
 .container__botao:checked ~ .lista__menu {
@@ -35,3 +36,29 @@
 }
 /* O acento ~ é um combinador no css, ele busca o elemento 
 que vem em seguida */
+
+.lista-menu__titulo, .lista-menu__item {
+    padding: 1em;
+    background-color: var(--branco);
+}
+
+.lista-menu__titulo {
+    color: var(--laranja);
+    font-weight: 700;
+}
+
+.lista-menu__item {
+    text-transform: uppercase;
+}
+
+.lista-menu__link {
+    background: var(--azul-gradiente);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.container__botao {
+    display: none;
+}
+
