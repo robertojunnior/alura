@@ -1,0 +1,12 @@
+footer {
+    padding: 1.5em;
+    background-color: var(--branco);
+    border-top: .1px solid var(--azul);
+}
+
+.rodape__titulo {
+    color: var(--azul);
+    font-size: 1.25em;
+    font-weight: 500;
+    text-decoration: none;
+}
