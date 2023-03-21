@@ -1,12 +1,16 @@
 @import url("styles/header.css");
 @import url("styles/banner.css");
 @import url("styles/carrossel.css");
+@import url("styles/topicos.css");
+@import url("styles/contato.css");
+@import url("styles/rodape.css");
 
 :root {
     --cor-fundo:#EBECEE;
     --branco: #ffffff;
     --laranja: #eb9800;
     --azul-gradiente: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
+    --azul: #002F52;
     --font-principal: "Poppins";
 }
 
