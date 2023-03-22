@@ -63,5 +63,13 @@ que vem em seguida */
 }
 
 @media screen and (min-width: 1024px) {
-   
+   .container__titulo {
+    font-family: var(--font-secondary);
+    font-size: 1.875em;
+    font-weight: 400;
+   }
+
+   .container__titulo--negrito {
+    font-weight: 700;
+   }
 }
