@@ -43,7 +43,8 @@ Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Este projeto traz a metodologia "Mobile-First" como principal característica, suas variáveis e @media-queries.<br>
-Minha intenção em compartilhar, é que tenha aqui disponível um formato simples, responsivo e otimizado do projeto com minha versão estilizada e toda evolução do aprendizado.
+Atualmente estou na etapa de responsividade para tablet e após será para desktop. 
+Minha intenção em compartilhar, é que tenha aqui disponível um formato simples, responsivo e otimizado do projeto e toda evolução do aprendizado.
 <br>Para visualizar a versão atual do projeto é só<a href="https://robertojunnior.github.io/alura/alura-books/"> "Clicar aqui".</a>🚀
 
 ## 🔖 Layout
