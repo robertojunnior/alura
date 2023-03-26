@@ -1,4 +1,4 @@
-<h1 align="center"> <a target="_blank" href="https://www.alura.com.br/cursos-online-front-end"><img width="60px" src="./portfolio-alura/assets/Alura.png" alt="portfolio-alura">
+<h1 align="center"> <a target="_blank" href="https://www.alura.com.br/cursos-online-front-end"><img width="40px" src="./portfolio-alura/assets/Alura.png" alt="portfolio-alura">
 </a> Fromação Front-end - Alura  </h1>
 
 <p align="center">
