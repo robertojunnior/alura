@@ -34,7 +34,7 @@
 .container__botao:checked ~ .lista__menu {
     display: block;
 }
-/* O acento ~ é um combinador no css, ele busca o elemento 
+/* O acento ~ é um combinador no css, ele busca no elemento 
 que vem em seguida */
 
 .lista-menu__titulo, .lista-menu__item {
@@ -67,6 +67,10 @@ que vem em seguida */
 }
 
 .opcoes {
+    display: none;
+}
+
+.container__link {
     display: none;
 }
 
@@ -112,5 +116,24 @@ que vem em seguida */
    .opcoes__botao {
     display: none;
 }
+
+}
+
+@media screen and (min-width: 1728px) {
+    .container__link {
+        display: flex;
+        align-items: center;
+        text-decoration: none;
+        color: var(--black);
+        font-size: 1.25em;
+    }
+
+    .cabecalho {
+        padding: 0 5em;
+    }
+
+    .opcoes {
+        margin-right: auto;
+    }
 
 }
