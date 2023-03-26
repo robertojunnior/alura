@@ -62,8 +62,17 @@ que vem em seguida */
     display: none;
 }
 
+.container__titulo {
+    display: none;
+}
+
+.opcoes {
+    display: none;
+}
+
 @media screen and (min-width: 1024px) {
    .container__titulo {
+    display: block;
     font-family: var(--font-secondary);
     font-size: 1.875em;
     font-weight: 400;
@@ -71,5 +80,23 @@ que vem em seguida */
 
    .container__titulo--negrito {
     font-weight: 700;
+   }
+
+   .opcoes {
+    display: flex;
+    color: var(--black);
+   }
+
+   .opcoes__item {
+    padding: 0 1em;
+    text-transform: uppercase;
+   }
+
+   .opcoes__link {
+    text-decoration: none;
+   }
+
+   .container__imagem--coracao {
+    display: none;
    }
 }
