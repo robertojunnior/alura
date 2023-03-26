@@ -28,3 +28,18 @@
 .topicos__item {
     margin: 2em .5em;
 }
+
+@media screen and (min-width: 1024px) {
+    .topicos__titulo {
+        font-size: 1.5em;
+    }
+
+    .topicos__link {
+        font-size: 1.5em;
+    }
+
+   .topicos__lista {
+    width: 80%;
+    margin: auto;
+   }  
+}
