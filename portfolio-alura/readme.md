@@ -47,7 +47,7 @@ Minha intenção em compartilhar, é que tenha aqui disponível um formato simpl
 <!-- [Visite o projeto online](https://robertojunnior.github.io/alura/portfolio-alura/) -->
 
 ## 🔖 Layout
-Este projeto foi desenvolvido no Figma por ALURA.<br>
+Este projeto foi desenvolvido  inicialmente no Figma por ALURA, e estilizado por mim com uso de CSS.<br>
 
 ## :memo: Licença
 
