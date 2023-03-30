@@ -7,6 +7,14 @@
     display: inline-block;
 }
 
+.container__botao:checked~.container__rotulo > .cabecalho__menu-hamburguer {
+    background-image: url("../img/MenuAberto.svg");
+}
+
+.container__botao:checked~.container__rotulo {
+    background: var(--azul-gradiente);
+}
+
 .cabecalho {
     background-color: var(--branco);
     display: flex;
@@ -27,6 +35,7 @@
 .lista__menu {
     display: none;
     position: absolute;
+    z-index: 2;
     top: 100%;
     width: 60vw;
 }
@@ -70,7 +79,7 @@ que vem em seguida */
     display: none;
 }
 
-.container__link {
+.container__texto {
     display: none;
 }
 
@@ -98,6 +107,7 @@ que vem em seguida */
 
    .opcoes__link {
     text-decoration: none;
+    color: var(--black);
    }
 
    .container__imagem--coracao {
@@ -117,6 +127,20 @@ que vem em seguida */
     display: none;
 }
 
+    .opcoes__botao:checked ~.opcoes__rotulo > .opcoes__item {
+        background: var(--azul-gradiente);
+        color: var(--branco);
+    }
+
+    .opcoes__item {
+        padding: 2em 1em;
+    }
+
+    .lista-menu__item:hover {
+        background: var(--azul-gradiente);
+        color: var(--branco);
+    }
+
 }
 
 @media screen and (min-width: 1366px) {
@@ -134,6 +158,10 @@ que vem em seguida */
 
     .opcoes {
         margin: 0 auto 0 3em;
+    }
+
+    .container__texto {
+        display: block;
     }
 
 }

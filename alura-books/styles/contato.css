@@ -60,3 +60,16 @@
     }
     
 }
+
+
+@media screen and (min-width: 1366px) {
+    .contato {
+        padding: 3em 10vw;
+    }
+}
+
+@media screen and (min-width: 1728px) {
+    .contato {
+        padding: 3em 20vw;
+    }
+}

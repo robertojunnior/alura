@@ -43,3 +43,15 @@
     margin: auto;
    }  
 }
+
+@media screen and (min-width: 1366px) {
+    .topicos {
+        padding: 3em 10vw;
+    }
+}
+
+@media screen and (min-width: 1728px) {
+    .topicos {
+        padding: 3em 20vw;
+    }
+}
