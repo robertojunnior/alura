@@ -38,3 +38,42 @@
     background: url("../img/email.svg") no-repeat;
     padding-left: 2em;   
 }
+
+@media screen and (min-width: 1024px) {
+    .contato {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 1em;
+    }
+
+    .contato__texto {
+        margin-bottom: 0;
+    }
+
+    .contato__email {
+        width: 30%;
+    }
+
+    .contato__descricao {
+        width: 35%;
+    }
+    
+    .botoes__ancora:hover {
+        transform: scale(1.05);
+        transition: 1.2s;
+       }
+}
+
+
+@media screen and (min-width: 1366px) {
+    .contato {
+        padding: 3em 10vw;
+    }
+}
+
+@media screen and (min-width: 1728px) {
+    .contato {
+        padding: 3em 20vw;
+    }
+}

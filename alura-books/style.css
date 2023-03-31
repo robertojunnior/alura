@@ -12,6 +12,10 @@
     --azul-gradiente: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
     --azul: #002F52;
     --font-principal: "Poppins";
+    --font-secondary: "Josefin Sans";
+    --black: #000;
+    --cinza: #464646;
+    --cinza-claro: #858585;
 }
 
 body {
