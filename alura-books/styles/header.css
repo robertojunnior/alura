@@ -138,7 +138,11 @@ que vem em seguida */
 
     .lista-menu__item:hover {
         background: var(--azul-gradiente);
-        color: var(--branco);
+    }
+
+    .lista-menu__link:hover {
+        -webkit-text-fill-color: var(--branco);
+        text-decoration: none;
     }
 
 }

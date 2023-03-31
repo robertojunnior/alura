@@ -41,7 +41,17 @@
    .topicos__lista {
     width: 80%;
     margin: auto;
-   }  
+   }
+   
+   .topicos__item:hover {
+    transform: scale(1.08);
+    transition-duration: 1s;
+   }
+
+   .topicos__link:hover {
+    background: var(--branco);
+    color: var(--laranja);
+   }
 }
 
 @media screen and (min-width: 1366px) {

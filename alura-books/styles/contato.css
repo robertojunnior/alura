@@ -59,6 +59,10 @@
         width: 35%;
     }
     
+    .botoes__ancora:hover {
+        transform: scale(1.05);
+        transition: 1.2s;
+       }
 }
 
 
