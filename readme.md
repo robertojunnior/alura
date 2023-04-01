@@ -17,8 +17,6 @@ Abaixo estarão todos os projetos que fazem parte da "Formação Front-end" da P
 </p>
 
 <br>
-
-
   
 <section align="center">
   <h2 align="center"> Projeto em desenvolvimento - Alura Books </h2>
