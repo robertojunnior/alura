@@ -23,7 +23,7 @@ Abaixo estarão todos os projetos que fazem parte da "Formação Front-end" da P
 <br>
   <div align="center">
     <a target="_blank" href="https://github.com/robertojunnior/alura/tree/main/alura-books">
-    <img width="80%" src="./alura-books/img/projeto-figma.png" alt="alura-plus">
+    <img width="80%" src="https://github.com/robertojunnior/alura-books/blob/master/img/projeto-figma.png?raw=true" alt="alura-books">
     </a>
   </div>
 
