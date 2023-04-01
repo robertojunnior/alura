@@ -66,6 +66,7 @@ Estes projetos estão sendo desenvolvidos com as seguintes tecnologias:
 
 <li> HTML
 <li> CSS
+<li> javaScript
 <li> Figma
 <li> Git and GitHub
 
@@ -75,13 +76,11 @@ Estes projetos estão sendo desenvolvidos com as seguintes tecnologias:
 Minha intenção é compartilhar o avanço dos estudos e aprendizado, para que tenha aqui disponível um formato simples, responsivo e otimizado dos projetos que fazem parte da construção de meu portfólio em desenvolvimento web ❤️‍🔥.
 
 <br>
-📺Fiz um vídeo da pré produção do projeto "Portfolio Alura", postei no canal que criei do Youtube para compartilhar o processo de evolução do aprendizado, o nome do canal é <a target="_blank" href="https://youtu.be/ioa_y-WYMWI">One Developer
-    <img width="20px" src="https://github.com/robertojunnior/alura-portfolio/blob/master/assets/logo-one-youtube.png?raw=true" alt="logo-one-developer">.
-    </a>
+📺Fiz um vídeo da pré produção do projeto "Portfolio Alura", postei no canal que criei do Youtube para compartilhar o processo de evolução do aprendizado, o nome do canal é <a target="_blank" href="https://youtu.be/ioa_y-WYMWI">One Developer <img width="20px" src="https://github.com/robertojunnior/alura-portfolio/blob/master/assets/logo-one-youtube.png?raw=true" alt="logo-one-developer">.</a>
 <br>
 
 
-<br> Para ver o projeto atual em desenvolvimento basta<a href="https://robertojunnior.github.io/alura/portfolio-alura/"> CLICAR AQUI.</a>🚀
+<br> Para ver o projeto atual "ALURA-MIDI" em desenvolvimento basta<a href="https://robertojunnior.github.io/alura-midi/"> CLICAR AQUI.</a>🚀
 
 ## 🔖 Layout
 🖼️O projeto original do FIGMA é privado e foi desenvolvido pela ALURA.<br>
@@ -91,8 +90,6 @@ Minha intenção é compartilhar o avanço dos estudos e aprendizado, para que t
 
 Este projeto está sob a licença MIT.
 <br>
-<p>Para adquirir e editar a imagem SVG da tela inicial do projeto, basta acessar o link a seguir: <a href="https://storyset.com/business">Business illustrations by Storyset</a>
-<br> A imagem é gratuita com atribuição.
 
 ---
 
