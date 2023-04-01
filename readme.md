@@ -67,7 +67,7 @@ Minha intenção é compartilhar o avanço dos estudos e aprendizado, para que t
 
 <br>
 📺Fiz um vídeo da pré produção do projeto "Portfolio Alura", postei no canal que criei do Youtube para compartilhar o processo de evolução do aprendizado, o nome do canal é <a target="_blank" href="https://youtu.be/ioa_y-WYMWI">One Developer
-    <img width="20px" src="./portfolio-alura/assets/logo-one-youtube.png" alt="logo-one-developer">.
+    <img width="20px" src="https://github.com/robertojunnior/alura-portfolio/blob/master/assets/logo-one-youtube.png?raw=true" alt="logo-one-developer">.
     </a>
 <br>
 
