@@ -19,7 +19,16 @@ Abaixo estarão todos os projetos que fazem parte da "Formação Front-end" da P
 <br>
   
 <section align="center">
-  <h2 align="center"> Projeto em desenvolvimento - Alura Books </h2>
+  <h2 align="center"> Projeto em desenvolvimento - Alura Midi </h2>
+<br>
+  <div align="center">
+    <a target="_blank" href="https://github.com/robertojunnior/alura-midi">
+    <img width="80%" src="https://github.com/robertojunnior/alura-midi/blob/master/images/tela-projeto.png?raw=true" alt="alura-books">
+    </a>
+  </div>
+<br>
+
+  <h2 align="center"> Último projeto - Alura Books </h2>
 <br>
   <div align="center">
     <a target="_blank" href="https://github.com/robertojunnior/alura-books">
@@ -28,7 +37,7 @@ Abaixo estarão todos os projetos que fazem parte da "Formação Front-end" da P
   </div>
 
 <br>
-<h2 align="center">Último projeto realizado - Alura Plus </h2>
+<h2 align="center">Projeto - Alura Plus </h2>
 <br>
 
   <a target="_blank" href="https://github.com/robertojunnior/alura-plus">
