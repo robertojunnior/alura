@@ -39,8 +39,8 @@ Abaixo estarão todos os projetos que fazem parte da "Formação Front-end" da P
 
   <h2 align="center">Projeto - Portfolio Alura </h2>
 
-  <a target="_blank" href="https://github.com/robertojunnior/alura/tree/main/portfolio-alura">
-  <img width="80%" src="./portfolio-alura/assets/mockup-entrega-github-personalizado.png" alt="portfolio-alura">
+  <a target="_blank" href="https://github.com/robertojunnior/portfolio-alura">
+  <img width="80%" src="https://github.com/robertojunnior/alura-portfolio/blob/master/assets/mockup-entrega-github-personalizado.png?raw=true" alt="portfolio-alura">
   </a> 
 
 <h2 align="center">Projeto - Conversor de Moedas </h2>
