@@ -15,20 +15,27 @@ Abaixo estarão todos os projetos que fazem parte da "Formação Front-end" da P
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
-
-<br>
   
 <section align="center">
-  <h2 align="center"> Projeto em desenvolvimento - Alura Midi </h2>
+<h2 align="center"> Projeto em desenvolvimento - Robotron 2000 </h2>
 <br>
   <div align="center">
-    <a target="_blank" href="https://github.com/robertojunnior/alura-midi">
-    <img width="80%" src="https://github.com/robertojunnior/alura-midi/blob/master/images/telaCinza-projeto.png?raw=true" alt="alura-books">
+    <a target="_blank" href="https://github.com/robertojunnior/alura-robotron2000">
+    <img width="80%" src="https://github.com/robertojunnior/alura-robotron2000/blob/main/img/tela-projeto.png?raw=true" alt="alura-books">
     </a>
   </div>
 <br>
 
-  <h2 align="center"> Último projeto - Alura Books </h2>
+  <h2 align="center"> Último projeto - Alura Midi </h2>
+<br>
+  <div align="center">
+    <a target="_blank" href="https://github.com/robertojunnior/alura-midi">
+    <img width="80%" src="https://github.com/robertojunnior/alura-midi/blob/master/images/tela-projeto.png?raw=true" alt="alura-books">
+    </a>
+  </div>
+<br>
+
+  <h2 align="center"> Projeto - Alura Books </h2>
 <br>
   <div align="center">
     <a target="_blank" href="https://github.com/robertojunnior/alura-books">
@@ -37,7 +44,7 @@ Abaixo estarão todos os projetos que fazem parte da "Formação Front-end" da P
   </div>
 
 <br>
-<h2 align="center">Projeto - Alura Plus </h2>
+<h2 align="center"> Projeto - Alura Plus </h2>
 <br>
 
   <a target="_blank" href="https://github.com/robertojunnior/alura-plus">
