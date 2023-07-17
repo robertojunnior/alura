@@ -30,7 +30,7 @@ Abaixo estarão todos os projetos que fazem parte da "Formação Front-end" da P
 <br>
   <div align="center">
     <a target="_blank" href="https://github.com/robertojunnior/alura-midi">
-    <img width="80%" src="https://github.com/robertojunnior/alura-midi/blob/master/images/tela-projeto-aluraMidi.png?raw=true" alt="alura-books">
+    <img width="80%" src="https://github.com/robertojunnior/alura-midi/blob/master/images/mockup-entrega.png?raw=true" alt="alura-books">
     </a>
   </div>
 <br>
