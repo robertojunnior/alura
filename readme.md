@@ -17,7 +17,16 @@ Abaixo estarão todos os projetos que fazem parte da "Formação Front-end" da P
 </p>
   
 <section align="center">
-<h2 align="center"> Projeto em desenvolvimento - Robotron 2000 </h2>
+<h2 align="center"> Projeto em desenvolvimento 02 - Alura Fokus </h2>
+<br>
+  <div align="center">
+    <a target="_blank" href="https://github.com/robertojunnior/alura-fokus">
+    <img width="80%" src="https://github.com/robertojunnior/alura-fokus/blob/main/imagens/tela-projeto.png?raw=true" alt="alura-fokus">
+    </a>
+  </div>
+<br>
+  
+<h2 align="center"> Projeto em desenvolvimento 01 - Robotron 2000 </h2>
 <br>
   <div align="center">
     <a target="_blank" href="https://github.com/robertojunnior/alura-robotron2000">
