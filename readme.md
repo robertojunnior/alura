@@ -2,7 +2,7 @@
 </a> Formação Front-end - Alura  </h1>
 
 <p align="center">
-Abaixo estarão todos os projetos que fazem parte da "Formação Front-end" da Platafroma ALURA, apresentados por Guilherme Lima, Rafaella Ballerini e Monica Hillman🚀.<br/>
+Abaixo estarão todos os projetos que fazem parte da "Formação Front-end" da Platafroma ALURA, apresentados até o momento por Guilherme Lima, Rafaella Ballerini, Monica Hillman, Vanessa Me, Pedro Marins e Luan Alves🚀.<br/>
 </p>
 
 <p align="center">
@@ -17,7 +17,16 @@ Abaixo estarão todos os projetos que fazem parte da "Formação Front-end" da P
 </p>
   
 <section align="center">
-<h2 align="center"> Projeto em desenvolvimento - Robotron 2000 </h2>
+<h2 align="center"> Projeto em desenvolvimento 02 - Alura Fokus </h2>
+<br>
+  <div align="center">
+    <a target="_blank" href="https://github.com/robertojunnior/alura-fokus">
+    <img width="80%" src="https://github.com/robertojunnior/alura-fokus/blob/main/imagens/tela-projeto.png?raw=true" alt="alura-fokus">
+    </a>
+  </div>
+<br>
+  
+<h2 align="center"> Projeto em desenvolvimento 01 - Robotron 2000 </h2>
 <br>
   <div align="center">
     <a target="_blank" href="https://github.com/robertojunnior/alura-robotron2000">
@@ -30,7 +39,7 @@ Abaixo estarão todos os projetos que fazem parte da "Formação Front-end" da P
 <br>
   <div align="center">
     <a target="_blank" href="https://github.com/robertojunnior/alura-midi">
-    <img width="80%" src="https://github.com/robertojunnior/alura-midi/blob/master/images/tela-projeto-aluraMidi.png?raw=true" alt="alura-books">
+    <img width="80%" src="https://github.com/robertojunnior/alura-midi/blob/master/images/mockup-entrega.png?raw=true" alt="alura-books">
     </a>
   </div>
 <br>
@@ -83,7 +92,7 @@ Estes projetos estão sendo desenvolvidos com as seguintes tecnologias:
 Minha intenção é compartilhar o avanço dos estudos e aprendizado, para que tenha aqui disponível um formato simples, responsivo e otimizado dos projetos que fazem parte da construção de meu portfólio em desenvolvimento web ❤️‍🔥.
 
 <br>
-📺Fiz um vídeo da pré produção do projeto "Portfolio Alura", postei no canal que criei do Youtube para compartilhar o processo de evolução do aprendizado, o nome do canal é <a target="_blank" href="https://youtu.be/ioa_y-WYMWI">One Developer <img width="20px" src="https://github.com/robertojunnior/alura-portfolio/blob/master/assets/logo-one-youtube.png?raw=true" alt="logo-one-developer">.</a>
+📺Fiz alguns vídeos da pré produção dos projetos, postei no canal que criei do Youtube para compartilhar o processo de evolução do aprendizado, o nome do canal é <a target="_blank" href="https://www.youtube.com/@onedeveloper/">One Developer <img width="20px" src="https://github.com/robertojunnior/alura-portfolio/blob/master/assets/logo-one-youtube.png?raw=true" alt="logo-one-developer">.</a>
 <br>
 
 
