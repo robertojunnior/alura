@@ -2,7 +2,7 @@
 </a> Formação Front-end - Alura  </h1>
 
 <p align="center">
-Abaixo estarão todos os projetos que fazem parte da "Formação Front-end" da Platafroma ALURA, apresentados até o momento por Guilherme Lima, Rafaella Ballerini, Monica Hillman, Vanessa Me, Pedro Marins e Luan Alves🚀.<br/>
+Abaixo estarão todos os projetos que fazem parte da "Formação Front-end" da Platafroma ALURA, apresentados em conteúdo de vídeo, artigos e discussões em fóruns específicos de cada conteúdo🚀.<br/>
 </p>
 
 <p align="center">
