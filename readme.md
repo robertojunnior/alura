@@ -95,9 +95,6 @@ Minha intenção é compartilhar o avanço dos estudos e aprendizado, para que t
 📺Fiz alguns vídeos da pré produção dos projetos, postei no canal que criei do Youtube para compartilhar o processo de evolução do aprendizado, o nome do canal é <a target="_blank" href="https://www.youtube.com/@onedeveloper/">One Developer <img width="20px" src="https://github.com/robertojunnior/alura-portfolio/blob/master/assets/logo-one-youtube.png?raw=true" alt="logo-one-developer">.</a>
 <br>
 
-
-<br> Para ver o projeto atual "ALURA-MIDI" em desenvolvimento basta<a href="https://robertojunnior.github.io/alura-midi/"> CLICAR AQUI.</a>🚀
-
 ## 🔖 Layout
 🖼️O projeto original do FIGMA é privado e foi desenvolvido pela ALURA.<br>
  
