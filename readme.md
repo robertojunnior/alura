@@ -2,7 +2,7 @@
 </a> Formação Front-end - Alura  </h1>
 
 <p align="center">
-Abaixo estarão todos os projetos que fazem parte da "Formação Front-end" da Platafroma ALURA, apresentados em conteúdo de vídeo, artigos e discussões em fóruns específicos de cada conteúdo🚀.<br/>
+Abaixo estarão todos os projetos que fazem parte da "Formação Front-end" da Plataforma ALURA, apresentados em conteúdo de vídeo, artigos e discussões em fóruns específicos de cada conteúdo🚀.<br/>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@ Abaixo estarão todos os projetos que fazem parte da "Formação Front-end" da P
 </p>
   
 <section align="center">
-<h2 align="center"> Projeto em desenvolvimento 02 - Alura Fokus </h2>
+<h2 align="center"> Projeto em desenvolvimento - Alura Fokus </h2>
 <br>
   <div align="center">
     <a target="_blank" href="https://github.com/robertojunnior/alura-fokus">
@@ -26,7 +26,7 @@ Abaixo estarão todos os projetos que fazem parte da "Formação Front-end" da P
   </div>
 <br>
   
-<h2 align="center"> Projeto em desenvolvimento 01 - Robotron 2000 </h2>
+<h2 align="center"> Último projeto - Robotron 2000 </h2>
 <br>
   <div align="center">
     <a target="_blank" href="https://github.com/robertojunnior/alura-robotron2000">
@@ -35,7 +35,7 @@ Abaixo estarão todos os projetos que fazem parte da "Formação Front-end" da P
   </div>
 <br>
 
-  <h2 align="center"> Último projeto - Alura Midi </h2>
+  <h2 align="center"> Projeto - Alura Midi </h2>
 <br>
   <div align="center">
     <a target="_blank" href="https://github.com/robertojunnior/alura-midi">
@@ -58,13 +58,13 @@ Abaixo estarão todos os projetos que fazem parte da "Formação Front-end" da P
 
   <a target="_blank" href="https://github.com/robertojunnior/alura-plus">
   <img width="80%" src="https://github.com/robertojunnior/alura-plus/blob/master/assets/mockup-entrega.png?raw=true" alt="alura-plus">
-  </a>  
+  </a>
 
   <h2 align="center">Projeto - Portfolio Alura </h2>
 
   <a target="_blank" href="https://github.com/robertojunnior/alura-portfolio">
   <img width="80%" src="https://github.com/robertojunnior/alura-portfolio/blob/master/assets/mockup-entrega-github-personalizado.png?raw=true" alt="portfolio-alura">
-  </a> 
+  </a>
 
 <h2 align="center">Projeto - Conversor de Moedas </h2>
 
@@ -86,7 +86,6 @@ Estes projetos estão sendo desenvolvidos com as seguintes tecnologias:
 <li> Figma
 <li> Git and GitHub
 
-
 ## 💻 Projeto
 
 Minha intenção é compartilhar o avanço dos estudos e aprendizado, para que tenha aqui disponível um formato simples, responsivo e otimizado dos projetos que fazem parte da construção de meu portfólio em desenvolvimento web ❤️‍🔥.
@@ -96,8 +95,8 @@ Minha intenção é compartilhar o avanço dos estudos e aprendizado, para que t
 <br>
 
 ## 🔖 Layout
+
 🖼️O projeto original do FIGMA é privado e foi desenvolvido pela ALURA.<br>
- 
 
 ## :memo: Licença
 
@@ -106,10 +105,9 @@ Este projeto está sob a licença MIT.
 
 ---
 
-Feito ❤️‍ by Roberto Junior 😁:wave: 
+Feito ❤️‍ by Roberto Junior 😁:wave:
 <br>🧑‍🚀[Inscreva-se no canal do YouTube da Alura!](https://www.youtube.com/@Alura)
 
-    
 <h4> Obrigado por visitar meu Git e se chegou até aqui dê um "Follow" que retribuo, quem sabe não podemos colaborar em algum projeto juntos?
 <br>
 <br>
